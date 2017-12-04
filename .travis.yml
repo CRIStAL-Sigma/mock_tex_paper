@@ -20,7 +20,7 @@ matrix:
 
 # Command to install dependencies for each configuration
 install:
-  - ./scripts/ensure_latex.sh
+  - . ./scripts/ensure_latex.sh
   - ./scripts/ensure_book_dependencies.sh
 
 script:

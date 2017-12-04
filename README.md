@@ -2,7 +2,7 @@
 
 This project is a template for python scientific projects. This template comes with utilities to easily setup continuous integration, project configurations and more. More details in [INSTRUCTIONS.md](INSTRUCTIONS.md).
 
-[![CheckHowThisButtonIsDoneToAdaptItToYourProject](https://travis-ci.org/[your_username]/[project_name].svg?branch=[branch_to_test])](https://travis-ci.org/[your_username]/[project_name])
+[![Build Status](https://travis-ci.org/CRIStAL-Sigma/mock_tex_paper.svg?branch=master)](https://travis-ci.org/CRIStAL-Sigma/mock_tex_paper)
 
 
 
